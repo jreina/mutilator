@@ -1,0 +1,29 @@
+{
+  "name": "mutilator",
+  "version": "0.0.0",
+  "description": "Key-by-key mutation for JavaScript object fuzzing",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jreina/mutilator.git"
+  },
+  "keywords": [
+    "fuzz",
+    "fuzzing",
+    "test",
+    "testing",
+    "mutation",
+    "mutate",
+    "mutilate",
+    "mutilation"
+  ],
+  "author": "Johnny Reina <johnny.r.reina@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jreina/mutilator/issues"
+  },
+  "homepage": "https://github.com/jreina/mutilator#readme"
+}
