@@ -25,5 +25,8 @@
   "bugs": {
     "url": "https://github.com/jreina/mutilator/issues"
   },
-  "homepage": "https://github.com/jreina/mutilator#readme"
+  "homepage": "https://github.com/jreina/mutilator#readme",
+  "dependencies": {
+    "lodash": "^4.17.15"
+  }
 }
